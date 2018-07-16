@@ -1,0 +1,9 @@
+body {
+    background: gray;
+}
+
+.rectangle{
+    float: left;
+    border-color: black;
+    border-style: solid;
+}
