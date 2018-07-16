@@ -40,7 +40,7 @@ function getBackgroundColor(probOfColor, defaultColor = 'transparent'){
 }
 
 
-function randomlyDivide(totalWidth, mininmumComponentSize = 10,){
+function randomlyDivide(totalWidth, mininmumComponentSize = 10){
     //TODO: What if remainder is smaller than minimum?
     let remainder = totalWidth;
     const componentNs = [];
